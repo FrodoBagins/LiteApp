@@ -1,10 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">SqLiteTodoManager</string>
+    <string name="activity_details">Book Details</string>
+    <string name="app_name">Bookmaster General</string>
     <string name="button_add">New task</string>
     <string name="button_clear">Delete</string>
     <string name="button_edit">Edit</string>
     <string name="edittext_hint_new_task">Type here your new task...</string>
     <string name="button_save">Save task</string>
     <string name="button_cancel">Cancel</string>
+    <string name="textview2">Hello world!</string>
+    <string name="textview">Search For Books!</string>
+    <string name="button">Search</string>
+    <string name="hint">Title and/or Author</string>
 </resources>
